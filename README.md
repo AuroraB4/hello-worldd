@@ -1,2 +1,6 @@
 # hello-worldd
-First try on GitHub
+
+Hi!
+
+This is my first try on GitHub.
+We'll see you later!
